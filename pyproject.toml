@@ -1,0 +1,9 @@
+[project]
+name = "lao-hu-ji"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "requests>=2.34.2",
+]
