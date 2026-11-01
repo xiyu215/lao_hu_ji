@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-np.random.seed()
+np.random.seed(14514)
 
 
 class Bandit:
